@@ -1,7 +1,7 @@
 mindsumo-census
 ===============
 
-Solution to Capital One's "Use population data to identify promising markets" challenge on MindSumo, which can be viewed [here](). Unfortunately, I did not win or get recognized.
+Solution to Capital One's "Use population data to identify promising markets" challenge on MindSumo, which can be viewed [here](https://www.mindsumo.com/contests/200). Unfortunately, I did not win or get recognized.
 
 Usage
 ------
